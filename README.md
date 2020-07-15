@@ -37,6 +37,8 @@
  4. Mayonnaise
  5. Ghee
  6. Butter
+ 7. Dahi
+ 8. Flavoured Yogurt
 ```
 ### Spices
 ```markdown
@@ -57,6 +59,9 @@
 15. Clove (లవంగం/लौंग)
 16. Black Pepper(నల్ల మిరియాలు/काली मिर्च)
 17. Cinnamon (దాల్చిన చెక్క/दालचीनी)
+18. Sesame Seeds (तिल)
+19. Fenugreek (Methi) Seeds (మెంతులు/मेथी)
+20. Mustard Seeds
 ```
 ### Beverages
 ```markdown
