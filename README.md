@@ -3,25 +3,28 @@
 
  <!--- ### Markdown \n Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
  --->
-### Vegetables
+### Vegetables/Fruits
+```markdown
+ 1. Potatoes
+ 2. Onions
+ 3. Tomatoes
+ 4. Eggplants
+ 5. Garlic
+ 6. Ginger
+ 7. Coriander
+ 8. Green Chilli
+ 9. Bananas
+10. Oranges/Tangerines
+```
+### Dairy Products
 ```markdown
 1. Kitchen Towel
 2. Milk
 3. Paneer
 4. Bread
-5. Potatoes
-6. Onions
-7. Tomatoes
-8. Eggplants
-9. Garlic
-9. Ginger
-```
-### Dairy Products
-```markdown
 10. Turmeric Powder
 11. Garam Masala
-12. Coriander
-13. Green Chilli
+
 14. Mayonnaise
 15. Urad Dāl
 16. Tur/Arhar Dāl (Pigeon Pea)
@@ -48,8 +51,7 @@
 38. Wheat flour
 39. Corn flour
 40. Frozen Pizza
-41. Bananas
-42. Oranges/Tangerines
+
 43. Coke
 44. Handwash
 45. Toilet Cleaner
