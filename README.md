@@ -15,6 +15,9 @@
 8. Eggplants
 9. Garlic
 9. Ginger
+```
+### Dairy Products
+```markdown
 10. Turmeric Powder
 11. Garam Masala
 12. Coriander
