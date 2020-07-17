@@ -18,6 +18,13 @@
 11. Diced Tomatoes
 12. Mushrooms
 13. Eggs
+14. Bitter Gourd/Karela (కాకర/करेला)
+15. Calabash/Bottle Gourd/Lauki/Sorakaya (సొరకాయ/लौकी)
+16. Sponge Gourd/Torai/Ridge Gourd (బీరకాయ/तोरई)
+17. Cabbage
+18. Cauliflower
+19. Drumsticks/Moringa/Murungakkai (सैंजना)
+20. Ladyfinger/Okra
 ```
 ### Dāl
 ```markdown
@@ -86,6 +93,7 @@
  4. Frozen Pizza
  5. Noodles
  6. Rice
+ 7. Cooking Oil
 ```
 ## Cleaning Supplies
 ```markdown
