@@ -106,8 +106,16 @@
  7. Kitchen Towel
 ```
 ## Analyzing Big Data
-```markdown
-[Thursday, August 20, 2020](https://asuonline.wistia.com/medias/97qy2bgj6n/)
+1. [Thursday, August 20, 2020](https://asuonline.wistia.com/medias/97qy2bgj6n/) - Scala Coding, Correlation Coefficient
+2. [Tuesday, August 25, 2020](https://asuonline.wistia.com/medias/5rp0vw47n1) - Databricks, Intellij Interactive Worksheet
+3. [Thursday, August 27, 2020](https://asuonline.wistia.com/medias/qxpjdakg84) - Intellij notes + HW discussion
+4. [Tuesday, September 1, 2020](https://asuonline.wistia.com/medias/lkh16sak72) - Hadoop analysis, Scala/Spark - A Geometric Approach
+5. [Tuesday, September 8, 2020](https://asuonline.wistia.com/medias/ocvzndwo0f) - 
 
-```
-[Thursday, August 20, 2020](https://asuonline.wistia.com/medias/97qy2bgj6n/)
+## Adv Analytics for Big Data/AI
+1. [Friday, August 21, 2020](https://asuonline.wistia.com/medias/m59vicjcwi) - Advanced Geometirc Linear Regression, Spark/Scala
+2. [Tuesday, August 25, 2020](https://asuonline.wistia.com/medias/4dk75d06ng) - 
+3. [Thursday, August 27, 2020](https://asuonline.wistia.com/medias/tznfb5yl09) - 
+4. [Tuesday, September 1, 2020](https://asuonline.wistia.com/medias/lkh16sak72) - 
+5. [Tuesday, September 8, 2020](https://asuonline.wistia.com/medias/v871gbt9sl) - A3.2 HW discussion
+
