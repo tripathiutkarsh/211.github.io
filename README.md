@@ -105,3 +105,7 @@
  6. Sanitizer
  7. Kitchen Towel
 ```
+## Analyzing Big Data
+```markdown
+Thursday, August 20, 2020 https://asuonline.wistia.com/medias/97qy2bgj6n
+```
