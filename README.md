@@ -112,9 +112,7 @@
 4. [Tuesday, September 1, 2020](https://asuonline.wistia.com/medias/lkh16sak72) - Hadoop analysis, Scala/Spark - A Geometric Approach
 5. [Tuesday, September 8, 2020](https://asuonline.wistia.com/medias/ocvzndwo0f) - 
 6. [Tuesday, September 15, 2020](https://asuonline.wistia.com/medias/9jdbwt9fx1) - Dataframes/Datasets in Intellij
-
 7a. [Thursday, September 17,2020]() - Mathematica & Quiz 1 discussion
-
 7b. [Thursday, September 17,2020](https://asuonline.wistia.com/medias/8sa5xo9kin) - Mathematica & Multivariable Statistical Triangle (from Adv. Analytics for Big Data/AI)
 
 ## Adv. Analytics for Big Data/AI
