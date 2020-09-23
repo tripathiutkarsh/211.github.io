@@ -114,6 +114,8 @@
 6.    [Tuesday, September 15, 2020](https://asuonline.wistia.com/medias/9jdbwt9fx1) - Dataframes/Datasets in Intellij
 7. a) [Thursday, September 17,2020](https://asuonline.wistia.com/medias/9xrxeeej0p) - Mathematica & Quiz 1 discussion
 7. b) [Thursday, September 17,2020](https://asuonline.wistia.com/medias/8sa5xo9kin) - Mathematica & Multivariable Statistical Triangle (from Adv. Analytics for Big Data/AI)
+8.    [Tuesday, September 22, 2020](https://asuonline.wistia.com/medias/y87qp76r19) - Apache Parquet, Datatypes, Aggregations
+
 
 ## Adv. Analytics for Big Data/AI
 1. [Friday, August 21, 2020](https://asuonline.wistia.com/medias/m59vicjcwi) - Advanced Geometric Linear Regression, Spark/Scala
@@ -123,3 +125,4 @@
 5. [Tuesday, September 8, 2020](https://asuonline.wistia.com/medias/v871gbt9sl) - A3.2 HW discussion
 6. [Tuesday, September 15, 2020](https://asuonline.wistia.com/medias/242bjinick) - Geometric LR, discussion on Quiz1
 7. [Thursday, September 17,2020](https://asuonline.wistia.com/medias/8sa5xo9kin) - Mathematica & Multivariable Statistical Triangle (Quiz 1 discussion)
+8. [Tuesday, September 22, 2020]() -
